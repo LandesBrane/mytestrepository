@@ -1,1 +1,1 @@
-test = "Test text"
+print("Hello World")
